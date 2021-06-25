@@ -14,17 +14,17 @@ E-mail: paulo1rm23@gmail.com
 
 # Portfólio como Gerente de Projetos na Agência Maxmeio/Art&C - Alguns clientes sob minha responsabilidade:
 
-Shopping Midway Mall - https://www.midwaymall.com.br/;
+> Shopping Midway Mall - https://www.midwaymall.com.br/;
 
-Rede de Supermercados Rede Mais RN - https://www.redemaisrn.com.br/;
+> Rede de Supermercados Rede Mais RN - https://www.redemaisrn.com.br/;
 
-Borges Eletromóveis - http://www.borgeseletromoveis.com/;
+> Borges Eletromóveis - http://www.borgeseletromoveis.com/;
 
-Grupo Dão Silveira - https://www.natalveiculos.com.br/ | https://www.espacialautopecas.com.br/;
+> Grupo Dão Silveira - https://www.natalveiculos.com.br/ | https://www.espacialautopecas.com.br/;
 
-Prefeitura de Mossoró - https://prefeiturademossoro.com.br/;
+> Prefeitura de Mossoró - https://prefeiturademossoro.com.br/;
 
-Assembléia Legislativa do RN - http://al.rn.leg.br/.
+> Assembléia Legislativa do RN - http://al.rn.leg.br/.
 
 
 # Experiência Profissional
@@ -41,33 +41,30 @@ Desenvolvedor Front-end (HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaS
 
 # Formação Acadêmica
 
-Estácio
-
+> Estácio
 Análise e Desenvolvimento de Sistemas (Superior)
-
 2015.2 - 2019.2 (Concluído).
 
 
 # Idioma
 
-Inglês Intermediário
-
+> Inglês Intermediário
 Watford Natal - (Concluído).
 
 
 # Conhecimentos em Informática
 
-Illustrator, Photoshop e CorelDraw;
+> Illustrator, Photoshop e CorelDraw;
 
-Montagem e Manutenção de micro e notebook;
+> Montagem e Manutenção de micro e notebook;
 
-Conhecimentos nas Linguagens de Programação: PHP e Framworks; Ruby e Rails; Java e Java JSF; Python;
+> Conhecimentos nas Linguagens de Programação: PHP e Framworks; Ruby e Rails; Java e Java JSF; Python;
 
-Amplo conhecimento em HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript ES6, Sass e Webpack;
+> Amplo conhecimento em HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript ES6, Sass e Webpack;
 
-Ferramentas: Uso diário e amplo conhecimento em GIT, Linux, MAC e Sublime Text.
+> Ferramentas: Uso diário e amplo conhecimento em GIT, Linux, MAC e Sublime Text.
 
 
 # Extra
 
-CNH – AB
+> CNH – AB
