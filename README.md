@@ -6,13 +6,13 @@ RG: 002.638.732 / CPF: 069.447.474-64
 
 Rua: Lago das Rosas, Nº: 229. Conj.: Jardim das Flores. CEP: 59122-280
 
-Telefones: (84) 9 8777-4123
+Telefones: (84) 9 9866-7141
 
 E-mail: paulo1rm23@gmail.com
 
 
 
-# Portfólio como Gerente na Agência Maxmeio/Art&C - Clientes digitais sob minha responsabilidade:
+# Portfólio como Gerente de Projetos na Agência Maxmeio/Art&C - Alguns clientes sob minha responsabilidade:
 
 Shopping Midway Mall - https://www.midwaymall.com.br/;
 
@@ -22,17 +22,20 @@ Borges Eletromóveis - http://www.borgeseletromoveis.com/;
 
 Grupo Dão Silveira - https://www.natalveiculos.com.br/ | https://www.espacialautopecas.com.br/;
 
-Detran RN.
+Prefeitura de Mossoró - https://prefeiturademossoro.com.br/;
+
+Assembléia Legislativa do RN - http://al.rn.leg.br/.
 
 
 # Experiência Profissional
 
-GERENTE DE PROJETOS DIGITAIS - Agência Art&C Comunicação Integrada / Agência Maxmeio Tecnologia Digital - 05/2016 (Atual)
-
+GERENTE DE PROJETOS - Agência Art&C Comunicação Integrada / Agência Maxmeio Tecnologia Digital - 01/2019 (Atual)
 Propor inovações; criar escopos de projetos digitais; organizar a pauta da equipe, criando, monitorando, testando e validando as tarefas; gerar relatórios; gerenciar e prever riscos; fazer um bom atendimento aos clientes.
 
-Programador Estagiário - Agência Mix Internet – 01 ano
+Programador - Agência Maxmeio/Art&C – 03 anos (06/2016 - 01/2019)
+Desenvolvedor Front-end (HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript) / Back-end - PHP (CI, CakePHP e Laravel)
 
+Programador Estagiário - Agência Mix Internet – 01 ano
 Desenvolvedor Front-end (HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript) / Back-end - PHP e Rails.
 
 
