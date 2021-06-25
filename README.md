@@ -29,13 +29,13 @@ Assembléia Legislativa do RN - http://al.rn.leg.br/.
 
 # Experiência Profissional
 
-GERENTE DE PROJETOS - Agência Art&C Comunicação Integrada / Agência Maxmeio Tecnologia Digital - 01/2019 (Atual)
+> GERENTE DE PROJETOS - Agência Art&C Comunicação Integrada / Agência Maxmeio Tecnologia Digital - 01/2019 (Atual)
 Propor inovações; criar escopos de projetos digitais; organizar a pauta da equipe, criando, monitorando, testando e validando as tarefas; gerar relatórios; gerenciar e prever riscos; fazer um bom atendimento aos clientes.
 
-Programador - Agência Maxmeio/Art&C – 03 anos (06/2016 - 01/2019)
+> Programador - Agência Maxmeio/Art&C – 03 anos (06/2016 - 01/2019)
 Desenvolvedor Front-end (HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript) / Back-end - PHP (CI, CakePHP e Laravel)
 
-Programador Estagiário - Agência Mix Internet – 01 ano
+> Programador Estagiário - Agência Mix Internet – 01 ano
 Desenvolvedor Front-end (HTML 5, CSS 3, Bootstrap, Materialize, Wordpress, JavaScript) / Back-end - PHP e Rails.
 
 
